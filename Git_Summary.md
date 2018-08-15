@@ -16,7 +16,7 @@
 >
 >           $ git congif 
 >
->     * 完善用户信息 (Run for only once):
+>     * 完善用户信息 example git(Run for only once):
 >
 >           $ git config --global user.name "John Doe"
 >           $ git config --global user.email johndoe@example.com
@@ -52,11 +52,12 @@
 
 > 1. 创建本地根目录：
 >
->     * 方法一：手动创建（新建文件夹）；返回编译器；输入 cd 语句
+>     * 方法一：手动创建（在D盘中新建文件夹：learngit）；返回编译器；输入 cd 语句 
 >     
 >           $ cd D:/learngit
 >
 >     * 方法二：使用命令行，直接在编译器中输入 mkdir 语句
+>
 >           $ mkdir LearnGit
 >
 >
