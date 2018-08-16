@@ -8,7 +8,7 @@ for character in message:
 	count.setdefault(character, 0)
 	count[character] = count[character] + 1
 
-rint(count)
+print(count)
 
 ##### I'm not really understand this part.
 
